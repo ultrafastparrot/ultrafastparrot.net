@@ -5,6 +5,12 @@ const SITES: {
   email: string;
 }[] = [
   {
+    name: "Sk Zubair Ahmed",
+    slug: "zubair",
+    url:"http://zubair.codes",
+    email:"sheikhzubairahmed@gmail.com",
+  },
+  {
     name: "Ingo Wolf",
     slug: "ingo",
     url: "https://ingo.au",
