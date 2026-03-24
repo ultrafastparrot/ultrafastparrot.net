@@ -19,8 +19,8 @@ const SITES: {
   {
     name: "Josh",
     slug: "josh",
-    url: "https://site.slitrostudio.me",
-    email: "hey@slitrostudio.me",
+    url: "https://slitro.studio",
+    email: "heya@slitro.studio.",
   },
   {
     name: "Lexy",
