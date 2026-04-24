@@ -10,12 +10,12 @@ const SITES: {
     url:"http://zubair.codes",
     email:"sheikhzubairahmed@gmail.com",
   },
-  {
-    name: "Ingo Wolf",
-    slug: "ingo",
-    url: "https://ingo.au",
-    email: "me@ingo.au",
-  },
+//  {
+//    name: "Ingo Wolf",
+//    slug: "ingo",
+//    url: "https://ingo.au",
+//    email: "me@ingo.au",
+//  },
   {
     name: "Coding Corner",
     slug: "kyle",
