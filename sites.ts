@@ -45,6 +45,12 @@ const SITES: {
     slug: "devtochukwu",
     url: "https://devtochukwu.me",
     email: "ntmark2004@gmail.com"
+  },
+  {
+    name: "H4LO",
+    slug: "h4lo",
+    url: "https://h4lo.ca",
+    email: "admin@h4lo.ca"
   }
 ];
 
